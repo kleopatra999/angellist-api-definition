@@ -8,7 +8,198 @@
 	"modified": "2016-04-29",
 	"url": "http://angellist.stack.network",
 	"specificationVersion": "0.14",
-	"apis": [],
+	"apis": [{
+		"name": "AngelList Accreditation API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/accreditation",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-accreditation-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Comments API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/comments",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-comments-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Follows API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/follows",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-follows-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Jobs API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/jobs",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-jobs-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Like API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/likes",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-like-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Me API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/oauth/faq",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-me-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Messages API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/messages",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-messages-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Paths API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/paths",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-paths-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Press API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/press",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-press-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Reservations API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/reservations",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-reservations-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Reviews API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/reviews",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-reviews-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Search API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/search",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-search-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Startups API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/startups",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-startups-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Status Updates API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/status_updates",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-status-updates-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Tags API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/tags",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-tags-api-openapi-spec.json"
+		}]
+	},
+	{
+		"name": "AngelList Users API",
+		"description": "",
+		"image": "https://avatars.githubusercontent.com/u/12423984?v=3",
+		"humanURL": "https://angel.co/api/spec/users",
+		"baseURL": "http://api.angel.co/",
+		"tags": ["Angellist API Stack"],
+		"properties": [{
+			"type": "x-openapi-spec",
+			"url": "api-commons/angellist-users-api-openapi-spec.json"
+		}]
+	}],
 	"x-common": [{
 		"type": "x-base-url-for-api",
 		"url": "http://api.angel.co/"
