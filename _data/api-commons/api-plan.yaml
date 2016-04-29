@@ -1,1 +1,23 @@
-- 
+- coupling: "1"
+  name: AngelList
+  host: angel.co
+  baseurl: /api
+  pages:
+  - url: https://angel.co/api
+  elements:
+  - name: Public
+  - name: Free
+  - name: Branding
+  - name: Content
+  - name: Commercial
+  - name: Talent
+  - name: Service
+  - name: Investment
+  timeframes: []
+  metrics:
+  - name: Call
+  geo: []
+  limits: []
+  resources: []
+  extensions: []
+  plans: []
